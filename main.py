@@ -26,7 +26,7 @@ def index():
     <title>RAHUL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/mqxN9Lg/Messenger-creation-a5c3ea7e-8ed6-40c8-b165-744eb924675b.jpg');
+            background-image: url('https://i.ibb.co/PwH3f9M/1731649178184.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">RAHUL X3 ROBIN INSIDE</h1>
-        <h1 style="color: blue;">RAHUL X ROBIN POST SERVER (DARK WEB)</h1>
+        <h1 style="color: red;">SOURAV INSIDE</h1>
+        <h1 style="color: blue;">RAHUL  POST SERVER (DARK WEB)</h1>
     </header>
 
     <div class="container">
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by devil</p>
+        <p>Made with ❤️ by Rahul</p>
     </footer>
 
     <script>

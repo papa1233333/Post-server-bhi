@@ -26,7 +26,7 @@ def index():
     <title>RAHUL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/YBM3bHVS/1745558284468.jpg');
+            background-image: url('https://i.ibb.co/gb5GGmNQ/IMG-20250425-105129.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
